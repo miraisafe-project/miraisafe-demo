@@ -1,0 +1,35 @@
+{
+    "name": "ミライセーフアプリ Webデモ",
+    "short_name": "ミライセーフ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EAF4F3",
+    "theme_color": "#EAF4F3",
+    "description": "ミライセーフアプリのWebデモ版です。",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
